@@ -61,7 +61,7 @@ def exit():
 
 #********************************************************************************************************************************************
 def About():
-    #"print("This is a simple example of a menu")
+    
     tkMessageBox.showinfo("Information"," Tool to import csv file to python and converting to excel using pandas. Original exercise found in Datafish.com. Visit www.gsepdev.com, keep it simple!")
 
 #**************************************************************************************************************************************
